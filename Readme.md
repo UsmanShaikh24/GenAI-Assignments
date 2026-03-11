@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repository contains a collection of assignments related to **Data Science, Python Programming, and Machine Learning concepts**. Each assignment demonstrates different analytical techniques, programming practices, and problem‑solving approaches using Python and Jupyter Notebooks.
-
+This repository contains a collection of assignments related to Generative AI (Gen AI) concepts and applications. Each assignment demonstrates different analytical techniques, programming practices, and problem‑solving approaches using Python and Jupyter Notebooks
 The repository is organized assignment‑wise so that each task can be easily accessed and executed independently.
 
 ## Repository Structure
